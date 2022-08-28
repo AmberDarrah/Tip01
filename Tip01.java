@@ -38,5 +38,8 @@ public class Tip01 {
         double Person8 = 30;
         double total8 = Person8*(1 +tax +tip);
         System.out.println("Person 8: "+total8);
-    }    
+
+        double sum = 12.0+14.39+10.79+9.6+8.4+18.0+13.2+36.0;
+        System.out.println("The entire table's order is: "+sum);
+    }
 }
